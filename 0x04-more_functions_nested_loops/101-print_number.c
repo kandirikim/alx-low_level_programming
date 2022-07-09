@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_number -> Function that prints an integer
@@ -7,7 +8,9 @@
  */
 void print_number(int n)
 {
-	print_number(n)
+	printf("Enter num: ");
 
-	_putchar('\n', n);
+	   scanf("%d", &number);
+
+	_putchar("num: %d", n);
 }
