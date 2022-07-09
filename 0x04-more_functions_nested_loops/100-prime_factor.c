@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include "main.h"
+
+
 /**
  * main ->  Prints prime factors of 612852475143
  *
