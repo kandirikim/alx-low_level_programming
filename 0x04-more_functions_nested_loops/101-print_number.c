@@ -7,6 +7,7 @@
  */
 void print_number(int n)
 {
+	print_number(n)
 
-	_putchar(0);
+	_putchar('\n', n);
 }
